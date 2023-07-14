@@ -1,0 +1,1 @@
+##  Soolution to minimum operation
